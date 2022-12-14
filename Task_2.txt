@@ -1,0 +1,1 @@
+revert command is creating a new commit(copy of our origin commit) and remove changes without removal from origin commit
